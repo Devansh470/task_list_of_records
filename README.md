@@ -1,2 +1,15 @@
 # task_list_of_records
 list add with name, email and status 
+
+For frontend 
+1.npm run dev 
+
+
+For backend 
+1. cd env/scripts
+2. ./activate
+3. cd ../../
+4. cd project
+5. py manage.py runserver 
+
+The server will start now 
